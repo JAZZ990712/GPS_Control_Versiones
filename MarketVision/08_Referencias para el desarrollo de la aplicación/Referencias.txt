@@ -1,0 +1,7 @@
+Referencias
+
+[1] 	Python, «PYTHON TUTORIAL,» pythontutorial.net., [En línea]. Available: https://www.pythontutorial.net/python-basics/. [Último acceso: 2022].
+[2] 	Python, «PYTHON,» Python Software Foundation, 2022. [En línea]. Available: https://docs.python.org/3/tutorial/. [Último acceso: 2022].
+[3] 	Gaby, «Youtube,» Youtube, 24 05 2020. [En línea]. Available: https://www.youtube.com/watch?v=cZkpaL36fW4&ab_channel=OMES. [Último acceso: 2022].
+[4] 	T. codigo, «Youtube,» Youtube, 10 06 2020. [En línea]. Available: https://www.youtube.com/watch?v=GFMxJa-RrRw&ab_channel=TurboC%C3%B3digo. [Último acceso: 2022].
+[5] 	cctmexico, «Youtube,» Youtube, 14 04 2017. [En línea]. Available: https://www.youtube.com/watch?v=iPXiZALnZFg&ab_channel=cctmexico. [Último acceso: 2022].
